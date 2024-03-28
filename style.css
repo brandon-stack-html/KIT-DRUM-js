@@ -1,0 +1,35 @@
+* {
+    color: aliceblue;
+}
+
+kbd {
+    font-size: 4rem;
+}
+
+span {
+    color: #ffc600;
+    font-size: 1rem;
+}
+
+.keys {
+    display: flex;
+    gap: 6rem;
+    text-align: center;
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+}
+
+body {
+    background-image: url(https://wallpapercave.com/wp/wp8930518.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    margin: 0; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+}
+
+.key {
+    border: black solid 0.5rem;
+}
